@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 254, 181);
+}
+
+.title {
+    display: flex;
+    color: black;
+}
+
+p {
+    text-align: center;
+    text-decoration: black;
+    transition: all;
+}
